@@ -1,0 +1,21 @@
+{
+  "name": "wishare",
+  "version": "0.1.2",
+  "description": "A frontend integration solution for winshare-http://www.winxuan.com",
+  "main": "index.js",
+  "bin": {
+    "wshare": "wishare.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "werts",
+  "license": "ISC",
+  "dependencies": {
+    "fis-parser-less": "^0.1.3",
+    "fis3": "^3.0.6",
+    "fis3-hook-module": "^1.1.1",
+    "liftoff": "^2.1.0",
+    "minimist": "^1.1.1"
+  }
+}
