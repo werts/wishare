@@ -3,6 +3,7 @@
   "version": "0.1.2",
   "description": "A frontend integration solution for winshare-http://www.winxuan.com",
   "main": "index.js",
+  "repository": "werts/wishare",
   "bin": {
     "wshare": "wishare.js"
   },
