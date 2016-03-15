@@ -18,6 +18,6 @@
     "fis3-hook-module": "^1.1.1",
     "liftoff": "^2.1.0",
     "minimist": "^1.1.1",
-    "wishare-postprocessor-cmd-wrapper": "^0.0.0"
+    "wishare-postprocessor-cmd-wrapper": "^0.0.1"
   }
 }
