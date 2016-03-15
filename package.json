@@ -1,11 +1,11 @@
 {
   "name": "wishare",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "A frontend integration solution for winshare-http://www.winxuan.com",
   "main": "index.js",
   "repository": "werts/wishare",
   "bin": {
-    "wshare": "wishare.js"
+    "wshare": "bin/wishare.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
