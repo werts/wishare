@@ -1,6 +1,6 @@
 {
   "name": "wishare",
-  "version": "0.1.3",
+  "version": "0.1.4-0",
   "description": "A frontend integration solution for winshare-http://www.winxuan.com",
   "main": "index.js",
   "repository": "werts/wishare",
