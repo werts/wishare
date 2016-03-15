@@ -51,9 +51,5 @@ fis.match('::package', {
 
 //fis3-hook-module
 fis.hook('module', {
-<<<<<<< HEAD
   mode: 'cmd' // 模块化支持 cmd 规范，适应 sea.js
-=======
-  mode: 'cmd' // 模块化支持 amd 规范，适应 require.js
->>>>>>> b42a0596874848da07e21f2436cb77bda567bc2f
 });
