@@ -1,6 +1,6 @@
 {
   "name": "wishare",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "A frontend integration solution for winshare-http://www.winxuan.com",
   "main": "index.js",
   "repository": "werts/wishare",
@@ -17,7 +17,6 @@
     "fis3": "^3.0.6",
     "fis3-hook-module": "^1.1.1",
     "liftoff": "^2.1.0",
-    "minimist": "^1.1.1",
-    "wishare-postprocessor-cmd-wrapper": "^0.0.1"
+    "minimist": "^1.1.1"
   }
 }
